@@ -1,0 +1,6 @@
+E:\dev\NexgenCms\NexgenCms.Core\obj\Debug\NexgenCms.Core.csproj.CoreCompileInputs.cache
+E:\dev\NexgenCms\NexgenCms.Core\bin\Debug\NexgenCms.Core.dll
+E:\dev\NexgenCms\NexgenCms.Core\bin\Debug\NexgenCms.Core.pdb
+E:\dev\NexgenCms\NexgenCms.Core\obj\Debug\NexgenCms.Core.csprojAssemblyReference.cache
+E:\dev\NexgenCms\NexgenCms.Core\obj\Debug\NexgenCms.Core.dll
+E:\dev\NexgenCms\NexgenCms.Core\obj\Debug\NexgenCms.Core.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Web", "NexgenCms.Web\NexgenCms.Web.csproj", "{3A95FDEC-E0D9-4BD5-86DE-E1641CEBB1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Data", "NexgenCms.Data\NexgenCms.Data.csproj", "{A2564FE1-FFBE-4101-8ACF-4857D702A44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Business", "NexgenCms.Business\NexgenCms.Business.csproj", "{2FF29AA0-BDE2-4977-AD41-22C78AB02DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Core", "NexgenCms.Core\NexgenCms.Core.csproj", "{0D960F53-3B19-4342-B7B5-F0F1D65EAD03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Model", "NexgenCms.Model\NexgenCms.Model.csproj", "{812E0943-AFC5-4F72-9DA6-078D12922846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexgenCms.Enum", "NexgenCms.Enum\NexgenCms.Enum.csproj", "{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A95FDEC-E0D9-4BD5-86DE-E1641CEBB1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A95FDEC-E0D9-4BD5-86DE-E1641CEBB1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A95FDEC-E0D9-4BD5-86DE-E1641CEBB1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A95FDEC-E0D9-4BD5-86DE-E1641CEBB1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2564FE1-FFBE-4101-8ACF-4857D702A44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2564FE1-FFBE-4101-8ACF-4857D702A44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2564FE1-FFBE-4101-8ACF-4857D702A44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2564FE1-FFBE-4101-8ACF-4857D702A44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF29AA0-BDE2-4977-AD41-22C78AB02DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF29AA0-BDE2-4977-AD41-22C78AB02DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF29AA0-BDE2-4977-AD41-22C78AB02DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF29AA0-BDE2-4977-AD41-22C78AB02DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D960F53-3B19-4342-B7B5-F0F1D65EAD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D960F53-3B19-4342-B7B5-F0F1D65EAD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D960F53-3B19-4342-B7B5-F0F1D65EAD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D960F53-3B19-4342-B7B5-F0F1D65EAD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812E0943-AFC5-4F72-9DA6-078D12922846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812E0943-AFC5-4F72-9DA6-078D12922846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812E0943-AFC5-4F72-9DA6-078D12922846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812E0943-AFC5-4F72-9DA6-078D12922846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46065BE0-B418-4980-92BD-C086D863F02D}
+	EndGlobalSection
+EndGlobal

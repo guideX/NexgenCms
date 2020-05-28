@@ -1,0 +1,6 @@
+E:\dev\NexgenCms\NexgenCms.Enum\bin\Debug\NexgenCms.Enum.dll
+E:\dev\NexgenCms\NexgenCms.Enum\bin\Debug\NexgenCms.Enum.pdb
+E:\dev\NexgenCms\NexgenCms.Enum\obj\Debug\NexgenCms.Enum.csprojAssemblyReference.cache
+E:\dev\NexgenCms\NexgenCms.Enum\obj\Debug\NexgenCms.Enum.csproj.CoreCompileInputs.cache
+E:\dev\NexgenCms\NexgenCms.Enum\obj\Debug\NexgenCms.Enum.dll
+E:\dev\NexgenCms\NexgenCms.Enum\obj\Debug\NexgenCms.Enum.pdb

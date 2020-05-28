@@ -1,0 +1,15 @@
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Business.dll
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Business.pdb
+E:\dev\NexgenCms\NexgenCms.Business\obj\Debug\NexgenCms.Business.csprojAssemblyReference.cache
+E:\dev\NexgenCms\NexgenCms.Business\obj\Debug\NexgenCms.Business.csproj.CoreCompileInputs.cache
+E:\dev\NexgenCms\NexgenCms.Business\obj\Debug\NexgenCms.Business.dll
+E:\dev\NexgenCms\NexgenCms.Business\obj\Debug\NexgenCms.Business.pdb
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Core.dll
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Data.dll
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Model.dll
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Enum.dll
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Core.pdb
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Data.pdb
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Model.pdb
+E:\dev\NexgenCms\NexgenCms.Business\bin\Debug\NexgenCms.Enum.pdb
+E:\dev\NexgenCms\NexgenCms.Business\obj\Debug\NexgenCms.Business.csproj.CopyComplete

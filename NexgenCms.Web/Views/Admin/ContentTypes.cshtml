@@ -1,0 +1,28 @@
+﻿@model NexgenCms.Business.ViewModels.Admin.ContentTypesViewModel
+@{
+    ViewBag.Title = "ContentTypes";
+}
+<h2>Content Types</h2>
+<hr />
+<a href="/Administrator/AddContentType">Add content type</a>
+<table style="width: 100%;">
+    <thead>
+        <tr>
+            <th class="table25">NAME</th>
+            <th class="table75">OPERATIONS</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model.ContentTypes.Results) {
+        <tbody>
+            <tr>
+                <td class="table25">@item.Title</td>
+                <td class="table75">
+                    <a href="#">edit</a>
+                    <a href="#">manage fields</a>
+                    <a href="#">manage display</a>
+                    <a href="#">delete</a>
+                </td>
+            </tr>
+        </tbody>
+    }
+</table>

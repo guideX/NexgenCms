@@ -1,0 +1,13 @@
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Data.dll
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Data.pdb
+E:\dev\NexgenCms\NexgenCms.Data\obj\Debug\NexgenCms.Data.csprojAssemblyReference.cache
+E:\dev\NexgenCms\NexgenCms.Data\obj\Debug\NexgenCms.Data.csproj.CoreCompileInputs.cache
+E:\dev\NexgenCms\NexgenCms.Data\obj\Debug\NexgenCms.Data.dll
+E:\dev\NexgenCms\NexgenCms.Data\obj\Debug\NexgenCms.Data.pdb
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Core.dll
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Model.dll
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Core.pdb
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Model.pdb
+E:\dev\NexgenCms\NexgenCms.Data\obj\Debug\NexgenCms.Data.csproj.CopyComplete
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Enum.dll
+E:\dev\NexgenCms\NexgenCms.Data\bin\Debug\NexgenCms.Enum.pdb

@@ -1,0 +1,16 @@
+﻿body {
+    background-color: black;
+    color: white;
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: left;
+}
+.table25 {
+    width: 25%;
+}
+.table75 {
+    width: 75%;
+}

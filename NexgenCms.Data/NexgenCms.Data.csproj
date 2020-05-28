@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2564FE1-FFBE-4101-8ACF-4857D702A44B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NexgenCms.Data</RootNamespace>
+    <AssemblyName>NexgenCms.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interfaces\ContentType\IContentTypeModel.cs" />
+    <Compile Include="Interfaces\DataType\IDataTypeRepository.cs" />
+    <Compile Include="Interfaces\FieldType\IFieldTypeRepository.cs" />
+    <Compile Include="Interfaces\Field\IFieldTypeRepository.cs" />
+    <Compile Include="Interfaces\Module\IModuleRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ContentType\ContentTypeRepository.cs" />
+    <Compile Include="Repositories\DataType\DataTypeRepository.cs" />
+    <Compile Include="Repositories\FieldType\FieldTypeRepository.cs" />
+    <Compile Include="Repositories\Field\FieldRepository.cs" />
+    <Compile Include="Repositories\Module\ModuleRepository.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\NexgenCms.Core\NexgenCms.Core.csproj">
+      <Project>{0d960f53-3b19-4342-b7b5-f0f1d65ead03}</Project>
+      <Name>NexgenCms.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NexgenCms.Enum\NexgenCms.Enum.csproj">
+      <Project>{2099CC7F-1C80-4171-8DC2-C9EA7D71B29D}</Project>
+      <Name>NexgenCms.Enum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NexgenCms.Model\NexgenCms.Model.csproj">
+      <Project>{812E0943-AFC5-4F72-9DA6-078D12922846}</Project>
+      <Name>NexgenCms.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
